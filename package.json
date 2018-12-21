@@ -1,21 +1,20 @@
 {
-  "name": "edsadr",
+  "name": "paolorena",
   "version": "1.0.0",
-  "description": "A personal card for Adrian Estrada (@edsadr)",
+  "description": "A personal card for Lorena Correa (@lavadani)",
   "main": "index.js",
   "bin": {
-    "edsadr": "./bin/card.js"
+    "paolorena": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:edsadr/edsadr-card.git"
+    "url": "git+https://github.com/Paolore/My_pesonal_card.git"
   },
   "scripts": {
     "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Adrian Estrada",
+  "author": "Lorena Correa",
   "license": "MIT",
   "dependencies": {
     "asciify-image": "^0.1.3",
